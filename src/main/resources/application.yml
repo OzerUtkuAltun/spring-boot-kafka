@@ -1,0 +1,9 @@
+logging:
+  level:
+    root: INFO
+
+kafka-example:
+  kafka:
+    address: 127.0.0.1:9092
+    topic: sample-topic
+    group: sample-group
